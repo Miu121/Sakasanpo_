@@ -25,6 +25,6 @@
 <p>パスワード：<input type="password" name="loginPassword"></p>
 <input type="submit" value="ログイン" name="login">
 </form>
-<p><a href="../top">Home→</a>
+<p><a href="top">Home→</a>
 </body>
 </html>
